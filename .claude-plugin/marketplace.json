@@ -1,0 +1,14 @@
+{
+  "name": "zhangkui-plugins",
+  "owner": {
+    "name": "张奎"
+  },
+  "plugins": [
+    {
+      "name": "arkcli-skills",
+      "source": "./plugins/arkcli-skills",
+      "description": "火山引擎方舟 CLI (arkcli) 技能集:26 个技能,覆盖模型查询、推理接入点、精调训练、多模态理解、计费与套餐管理等。",
+      "version": "1.0.0"
+    }
+  ]
+}

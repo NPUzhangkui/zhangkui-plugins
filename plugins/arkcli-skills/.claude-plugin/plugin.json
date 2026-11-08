@@ -1,0 +1,8 @@
+{
+  "name": "arkcli-skills",
+  "version": "1.0.0",
+  "description": "火山引擎方舟 CLI (arkcli) 技能集:26 个技能,覆盖模型查询、推理接入点、精调训练、多模态理解、计费与套餐管理等。",
+  "author": {
+    "name": "张奎"
+  }
+}
